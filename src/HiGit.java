@@ -1,5 +1,6 @@
 public class HiGit {
     public static void main(String[] args) {
-        System.out.println("Hi Git!"git);
+        System.out.println("Hi Git!");
+        System.out.println("Bye Git!");
     }
 }
